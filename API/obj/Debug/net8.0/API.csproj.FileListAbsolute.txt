@@ -66,3 +66,14 @@
 /Users/ronivanosorio/Desktop/DatingApp/API/obj/Debug/net8.0/API.pdb
 /Users/ronivanosorio/Desktop/DatingApp/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/ronivanosorio/Desktop/DatingApp/API/obj/Debug/net8.0/ref/API.dll
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.csproj.AssemblyReference.cache
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.AssemblyInfoInputs.cache
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.AssemblyInfo.cs
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.csproj.CoreCompileInputs.cache
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.sourcelink.json
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.dll
+/workspaces/DatingApp/API/obj/Debug/net8.0/refint/API.dll
+/workspaces/DatingApp/API/obj/Debug/net8.0/API.pdb
