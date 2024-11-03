@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/DatingApp/API/API.csproj": {}
+    "/Users/ronivanosorio/Desktop/DatingApp/DatingApp/API/API.csproj": {}
   },
   "projects": {
-    "/workspaces/DatingApp/API/API.csproj": {
+    "/Users/ronivanosorio/Desktop/DatingApp/DatingApp/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/DatingApp/API/API.csproj",
+        "projectUniqueName": "/Users/ronivanosorio/Desktop/DatingApp/DatingApp/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/workspaces/DatingApp/API/API.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/DatingApp/API/obj/",
+        "projectPath": "/Users/ronivanosorio/Desktop/DatingApp/DatingApp/API/API.csproj",
+        "packagesPath": "/Users/ronivanosorio/.nuget/packages/",
+        "outputPath": "/Users/ronivanosorio/Desktop/DatingApp/DatingApp/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/ronivanosorio/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,7 +52,19 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
             },
@@ -79,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
