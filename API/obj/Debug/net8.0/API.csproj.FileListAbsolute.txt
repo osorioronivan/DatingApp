@@ -212,3 +212,4 @@
 /Users/ronivanosorio/Desktop/DatingApp/DatingApp/API/obj/Debug/net8.0/API.csproj.Up2Date
 /Users/ronivanosorio/Desktop/DatingApp/DatingApp/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/ronivanosorio/Desktop/DatingApp/DatingApp/API/obj/Debug/net8.0/ref/API.dll
+/Users/ronivanosorio/Desktop/DatingApp/DatingApp/API/bin/Debug/net8.0/package-lock.json
